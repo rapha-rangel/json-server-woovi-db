@@ -1,9 +1,19 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "users": [
+    {
+      "identificatorBuy": "2c1b951f356c4680b13ba1c9fc889c47",
+      "userName": "João",
+      "totalValue": 31699.98,
+      "termsValue": [
+        5288.33,
+        5288.33,
+        5288.33,
+        5288.33,
+        5288.33,
+        5288.33
+      ],
+      "paidPix": false,
+      "id": "1"
+    }
+  ]
 }
